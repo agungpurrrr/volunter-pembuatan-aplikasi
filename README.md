@@ -6,4 +6,4 @@ Silakan gunakan format berikut : <br>
 **\* Nama, [LinkedIn/github/website](Alamat Url).**
 berikut adalah daftar volunter yang di terima :
 * Oon Afriandwi, [oo.or.id](https://oo.or.id).
-
+* bayu prasetyo, [LinkedIn](https://www.linkeidn.com/in/gilang-adhan/).
